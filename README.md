@@ -5,5 +5,5 @@
 ### Unclicked Button
 ![Emulator](Screenshots/Unclicked.png)
 
-### Unclicked Button
+### Clicked Button
 ![Emulator](Screenshots/Clicked.png)
